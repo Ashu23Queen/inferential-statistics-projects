@@ -4,3 +4,4 @@ Project Goal - The primary goal is to estimate the average number of times peopl
   > Confidence Intervals
   > Hypothesis Testing
 
+We have used two-sample t-test which is mainly used to compare means of two independent groups.
