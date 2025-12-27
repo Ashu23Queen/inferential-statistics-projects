@@ -5,3 +5,4 @@ This repo of will help you to make inferences and draw conclusions about a large
  - Average snooze count. [access](https://github.com/Ashu23Queen/inferential-statistics-projects/blob/main/average%20snooze%20count/average%20snooze%20count.ipynb).
  - Average snooze count - for Two Individual Groups. [access](https://github.com/Ashu23Queen/inferential-statistics-projects/blob/main/average%20snooze%20count/average%20snooze%20count%20-%20for%20Two%20Individual%20Groups.ipynb).
 
+ 
